@@ -1,0 +1,6 @@
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\bin\Debug\FunProblems.exe.config
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\bin\Debug\FunProblems.exe
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\bin\Debug\FunProblems.pdb
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\obj\Debug\FunProblems.csprojResolveAssemblyReference.cache
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\obj\Debug\FunProblems.exe
+c:\users\soora\documents\visual studio 2015\Projects\FunProblems\FunProblems\obj\Debug\FunProblems.pdb
